@@ -1,8 +1,3 @@
-this is a test
-this is my first test using git
-this is another test
+this is all wrong
 
-hey I forgot a line
-
-more and more lines
-more and more lines
+new testing here
